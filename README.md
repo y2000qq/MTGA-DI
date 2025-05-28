@@ -1,4 +1,4 @@
-# On Generating Transferable Targeted Perturbations (ICCV'21)
+# On Generating Transferable Targeted Perturbations 
 [Muzammal Naseer](https://scholar.google.ch/citations?user=tM9xKA8AAAAJ&hl=en), [Salman Khan](https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.ch/citations?user=Mx8MbWYAAAAJ&hl=en&oi=ao), [Fahad Shahbaz Khan](https://scholar.google.ch/citations?user=zvaeYnUAAAAJ&hl=en&oi=ao), and [Fatih Porikli](https://scholar.google.com/citations?user=VpB8NZ8AAAAJ&hl=en)
 
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Naseer_On_Generating_Transferable_Targeted_Perturbations_ICCV_2021_paper.pdf) ([arXiv](https://arxiv.org/abs/2103.14641)), [5-min Presentation](https://drive.google.com/file/d/1KSe9Zp6_uADkMgXQkHpoKtN85Q1sX_Wv/view?usp=sharing), [Poster](https://drive.google.com/file/d/1kIMIwUHcaHYpWiphHmT38_S0ruS2TrrG/view?usp=sharing)
